@@ -1,5 +1,4 @@
-# MemoMind
-
+<center>![MemoMind Logo](./path-to-logo.png)</center>
 MemoMind is a user-friendly reminder application designed to help you stay organized, manage your tasks efficiently, and never miss an important moment. Whether it's a one-time event, a recurring task, or a habit you’re trying to build, MemoMind ensures you stay on top of your commitments with ease.
 
 ---
