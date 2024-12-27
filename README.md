@@ -43,8 +43,9 @@ MemoMind is a user-friendly reminder application designed to help you stay organ
 
 ---
 <p align="center">
-  <img src="images/MemoMind Architecture Diagram.png" alt="MemoMind Architecture Diagram" width="auto" height="auto">
+  <img src="MemoMind Architecture Diagram.png" alt="MemoMind Architecture Diagram" width="auto" height="auto">
 </p>
+
 ---
 
 ## Getting Started
